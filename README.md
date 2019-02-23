@@ -12,3 +12,5 @@ chmod 777 /home/user/InstallZM.sh
 ![](https://i.imgur.com/RyerkQI.png)
 
 ![](https://i.imgur.com/4DlQUok.png)
+
+![](https://i.imgur.com/HTm7Ie8.png)
